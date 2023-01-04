@@ -1,5 +1,5 @@
-#Frontend using Newyork Times API
+# Frontend using Newyork Times API
 
-###Hosted at : https://project-nyt-6d1bf.web.app
+### Hosted at : https://project-nyt-6d1bf.web.app
 
-###Built using Material UI
+### Built using Material UI
