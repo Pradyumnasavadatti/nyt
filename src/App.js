@@ -16,6 +16,7 @@ function App() {
           <Route path="/" exact element={<Index />} />
           //Result route
           <Route path="result" exact element={<Result />} />
+          //Details route
           <Route path="details" exact element={<Details />} />
         </Routes>
       </context.Provider>
