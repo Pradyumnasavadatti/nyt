@@ -14,6 +14,7 @@ function App() {
         <Routes>
           //Default route
           <Route path="/" exact element={<Index />} />
+          //Result route
           <Route path="result" exact element={<Result />} />
           <Route path="details" exact element={<Details />} />
         </Routes>
