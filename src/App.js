@@ -12,6 +12,7 @@ function App() {
     <BrowserRouter>
       <context.Provider value={[point, setPoint, load, setLoad]}>
         <Routes>
+          //Default route
           <Route path="/" exact element={<Index />} />
           <Route path="result" exact element={<Result />} />
           <Route path="details" exact element={<Details />} />
